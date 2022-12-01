@@ -1,0 +1,23 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(bg.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background-color:rgb(15, 16, 73);
+}
+
+
+#hd3{
+	display: inline-block;
+	color: rgb(22, 234, 82);
+	background-color: aliceblue;
+	font-family: fantasy;
+}
+
